@@ -116,7 +116,7 @@ digital-wellbeing-subscription-analysis/
 ├── data/
 │   └── train.csv
 │
-└── images/
+└── assets/
     └── overview_key_challenges.png
 ```
 
